@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MillieBOT/MillieBOT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MillieBOT/MillieBOT.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title: Millie Writes>
+      <meta charset = "utf-8">
+   </head>
+   <body>
+     <h1> Millie Writes </h1>
+     <h2> In the world of your imagination, your map is the mind</h2>
+     <div><p>Hello, and welcome to this simple webpage where I would LEGIT write random stuff in. This is a fun project so if you have critisism or ideas you can visit me at Wattpad(MillieWritesBOT) or Youtube(MillieWritesBOT).<br>
+       I love to write stories, draw, and study, and that's all about to me there is to know. My name, as you may have guessed, is NOT Millie (O.O). Millie ia a fictional charcater that I use to represent me.<br>
+       Enought about me, lets go into the blog :) </p>
